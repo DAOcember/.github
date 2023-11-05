@@ -14,10 +14,6 @@ DAOcember is a celebration of decentralized autonomous organizations (DAOs) and 
 - Networking Opportunities 🤝
 - And Much More! 🎈
 
-## Get Involved
-
-Join the DAOcember community on GitHub and stay updated on our latest announcements, workshops, and events. We can't wait to see you there!
-
 ## Quick Links
 
 - [Website](https://daocember.space)
